@@ -1,5 +1,3 @@
 # Personal Dashboard Chrome Extension
 
-- Readme Adding soon..
-
-- Happy Coding!
+-  A simple new tab chrome extension, build with the help of various api's , Javascript , Html and CSS
